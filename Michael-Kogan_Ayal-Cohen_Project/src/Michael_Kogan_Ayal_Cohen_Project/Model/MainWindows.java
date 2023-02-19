@@ -5,8 +5,6 @@ import javafx.stage.Stage;
 import Michael_Kogan_Ayal_Cohen_Project.Controller.CompanyController;
 import Michael_Kogan_Ayal_Cohen_Project.View.CompanyView;
 
-// ID Michael Kogan 318974672
-// ID   Ayal Cohen  316018282
 
         public class MainWindows extends Application {
 	   @Override
